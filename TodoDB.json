@@ -1,0 +1,41 @@
+{
+  "TO-DO": [
+    {
+      "name": "Kaushik Singh",
+      "phone": "8318805983",
+      "subject": "DBMS",
+      "topic": "Unit-2",
+      "startDate": "2026-09-10",
+      "lastDate": "2026-09-14",
+      "id": "1FNbh1u9jDQ"
+    },
+    {
+      "name": "Aditi Pandey",
+      "phone": "8956322154",
+      "subject": "AI-MI",
+      "topic": "Unit-5",
+      "startDate": "2026-09-12",
+      "lastDate": "2026-09-23",
+      "id": "8vfFeA14SeI"
+    },
+    {
+      "name": "Raj Singh",
+      "phone": "8956232198",
+      "subject": "Web-Tech",
+      "topic": "Unit-4",
+      "startDate": "2026-09-15",
+      "lastDate": "2026-09-18",
+      "id": "ooAAiNpABSk"
+    },
+    {
+      "name": "Kaushik Singh",
+      "phone": "4123568956",
+      "subject": "XYZ",
+      "topic": "abc",
+      "startDate": "2026-09-18",
+      "lastDate": "2026-09-26",
+      "id": "LPguFc4pQC8"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
